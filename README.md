@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MeshAnythingV2-jupyter/blob/main/MeshAnythingV2_jupyter.ipynb) | MeshAnythingV2_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MeshAnythingV2-jupyter/blob/main/MeshAnythingV2_jupyter.ipynb) | MeshAnythingV2_jupyter (Pro Colab 😭 FlashAttention only supports Ampere GPUs or newer. )
 
 ### 🧬 Code
 https://github.com/buaacyw/MeshAnythingV2
